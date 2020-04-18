@@ -38813,7 +38813,7 @@
 0.0.0.0 nidinternal.timesink.com
 0.0.0.0 nidtest.timesink.com
 0.0.0.0 redirects.timesink.com
-0.0.0.0 softwares.timesink.com
+0.0.0.0 software.timesink.com
 0.0.0.0 warsport.timesink.com
 0.0.0.0 wwwtest.timesink.com
 0.0.0.0 zeus.timesink.com
