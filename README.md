@@ -1,6 +1,6 @@
 # HpHosts
 
-| hpHosts			| MAIN, BIG Hosts file with almost `725 000` entries.		                    | Freeware    | [link](https://www.hosts-file.net)
+| hpHosts		| MAIN, BIG Hosts file with almost `725 000` entries.		                | Freeware    | [link](https://www.hosts-file.net)
 | hpHosts-ATS		| Ad/tracking servers. ONLY                                                     | Freeware    | [link](https://www.hosts-file.net)
 | hpHosts-EMD		| Malware sites. ONLY                                                           | Freeware    | [link](https://www.hosts-file.net)
 | hpHosts-EXP		| Exploit sites. ONLY                                                           | Freeware    | [link](https://www.hosts-file.net)
