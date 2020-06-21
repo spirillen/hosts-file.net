@@ -16,6 +16,7 @@
 
 Current status:
 
+```txt
 Fast-forward
  .arcconfig                                   |      5 +
  .arclint                                     |     28 +
@@ -57,4 +58,4 @@ Fast-forward
  pha.txt                                      |  15126 +++++
  psh.txt                                      | 189148 ++++++++++++++++++++++++++++++++++++++++++++++++++++
  hphosts_pup.txt => pup.txt                   |      0
-
+```
